@@ -3,12 +3,12 @@
 | Tool | Connector available? | Status | Notes |
 |---|---|---|---|
 | Google Drive | Yes | Connected | Search/read/create/copy/share files, incl. Docs & Slides files |
-| Canva | Yes | Needs reconnect | Reconnect in claude.ai > Settings > Connectors |
+| Canva | Yes | Needs reconnect (as of 2026-10-03) | Reconnect in claude.ai > Settings > Connectors |
 | Asana | Yes | Not connected | Tasks, projects, status overviews |
 | Google Docs | Yes | Not connected | Finer-grained doc editing than Drive |
 | Google Slides | Yes | Not connected | Read/edit individual slides |
 | Metricool | Yes | Not connected | Schedule posts, analytics, best time to post |
-| Descript | Yes | Not connected | Import media, prompt-driven video edits |
+| Descript | Yes | Connected | Search projects, read transcripts, edit via Agent Underlord, publish, export timelines (Premiere/Resolve/FCP) |
 | Adobe | Yes | Not connected | Check which Creative Cloud apps/actions it covers |
 | Notion | Yes | Not connected | Pages and databases |
 | Zapier | Yes | Not connected | Bridge to apps with no direct connector |

@@ -30,7 +30,7 @@ Daily. Notify Ben only when a new A+ or A role appears. Otherwise report
 6. **Rankings.** Check the specific award and year (Fortune/GPTW, Inc., Built In,
    Forbes, Comparably). Never assume one.
 7. **Score** with the brief's weights. Add rows to `tracker.csv` and the Google Sheet
-   ([Job Search Master Tracker](https://docs.google.com/spreadsheets/d/18u5Zi9IPvAW7UpZcn8u_K0jq6-_3k3pnufIvqRn8w34/edit), in the Drive account the connector uses). Write `workflows/job-search/reports/<date>.md`.
+   ([Job Search Tracker](https://docs.google.com/spreadsheets/d/1nuMcJYuamgy-3xv1fW2NIsJULwHMoWVKYqy234vPc4A/edit), in Shannon's Drive, which the connector uses; Ben chose to keep it there). New roles go on the Opportunities tab; roles Ben applies to move to the Applications tab. Write `workflows/job-search/reports/<date>.md`.
 
 ## 3. Gotchas learned
 - Cloud network: the session needs the `workflow-automation-assistant` environment, which
@@ -45,8 +45,11 @@ Daily. Notify Ben only when a new A+ or A role appears. Otherwise report
 - Google Sheets editor connector isn't on: the master sheet can only be created
   via Drive, not edited in place. Turn on the Sheets connector to append rows daily.
 
-## 4. Judgment calls (Ben)
+## 4. Scoring note
+Score seniority against Ben's actual resume: Creative Lead since June 2025, about 7.5 years of creative work, no formal team of paid designers. Roles asking for 10+ years or a large team are long shots.
+
+## 5. Judgment calls (Ben)
 Which roles to apply to, tailoring materials, any outreach.
 
-## 5. Never
+## 6. Never
 Apply, message recruiters, or share the tracker without Ben's OK.

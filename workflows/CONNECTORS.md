@@ -4,7 +4,7 @@
 |---|---|---|---|
 | Google Drive | Yes | Connected | Search/read/create/copy/share files, incl. Docs & Slides files |
 | Canva | Yes | Needs reconnect (as of 2026-10-03) | Reconnect in claude.ai > Settings > Connectors |
-| Asana | Yes | Not connected | Tasks, projects, status overviews |
+| Asana | Yes | Connected (2026-11-13) | Job Search Pipeline project. Free plan: no start dates, due dates only |
 | Google Docs | Yes | Connected (2026-11-13) | Finer-grained doc editing than Drive |
 | Google Slides | Yes | Connected (2026-11-13) | Read/edit individual slides |
 | Google Sheets | Yes | Connected (2026-11-13) | Edits the Job Search Tracker in place (Shannon's account) |

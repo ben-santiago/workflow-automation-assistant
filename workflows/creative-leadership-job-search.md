@@ -45,6 +45,9 @@ Daily. Notify Ben only when a new A+ or A role appears. Otherwise report
 - Google Sheets editor connector isn't on: the master sheet can only be created
   via Drive, not edited in place. Turn on the Sheets connector to append rows daily.
 
+## 3b. Outreach pipeline
+For roles worth extra effort, follow `workflows/job-search/outreach-pipeline.md`: spec piece, find the person, tailor the resume, send, follow up.
+
 ## 4. Scoring note
 Score seniority against Ben's actual resume: Creative Lead since June 2025, about 7.5 years of creative work, no formal team of paid designers. Roles asking for 10+ years or a large team are long shots.
 

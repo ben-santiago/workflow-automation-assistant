@@ -5,9 +5,9 @@
 | Google Drive | Yes | Connected | Search/read/create/copy/share files, incl. Docs & Slides files |
 | Canva | Yes | Needs reconnect (as of 2026-10-03) | Reconnect in claude.ai > Settings > Connectors |
 | Asana | Yes | Not connected | Tasks, projects, status overviews |
-| Google Docs | Yes | Not connected | Finer-grained doc editing than Drive |
-| Google Slides | Yes | Not connected | Read/edit individual slides |
-| Google Sheets | Yes | Not connected | Needed to append rows to the job-search master tracker in place (Drive alone can only create new files) |
+| Google Docs | Yes | Connected (2026-11-13) | Finer-grained doc editing than Drive |
+| Google Slides | Yes | Connected (2026-11-13) | Read/edit individual slides |
+| Google Sheets | Yes | Connected (2026-11-13) | Edits the Job Search Tracker in place (Shannon's account) |
 | Metricool | Yes | Not connected | Schedule posts, analytics, best time to post |
 | Descript | Yes | Connected | Search projects, read transcripts, edit via Agent Underlord, publish, export timelines (Premiere/Resolve/FCP) |
 | Adobe | Yes | Not connected | Check which Creative Cloud apps/actions it covers |
